@@ -19,9 +19,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 
-# Assets
+# assets
 collections:
-- assets
+ assets:
+ 	output: true
+ 	permalink: _assets/NickCopelin_Resume.pdf
 
 # Build settings
 markdown: kramdown
