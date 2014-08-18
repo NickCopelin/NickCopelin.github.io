@@ -19,10 +19,6 @@ social:
 
 # Postal address (add as many lines as necessary)
 
-# assets
-collections:
- assets:
- 	output_ext: pdf
 
 # Build settings
 markdown: kramdown
