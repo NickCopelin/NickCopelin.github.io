@@ -19,6 +19,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 
+# Assets
+collections:
+- assets
 
 # Build settings
 markdown: kramdown
