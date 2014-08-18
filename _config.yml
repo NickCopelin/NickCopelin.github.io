@@ -23,7 +23,6 @@ social:
 collections:
  assets:
  	output_ext: pdf
- 	permalink: _assets/NickCopelin_Resume.pdf
 
 # Build settings
 markdown: kramdown
