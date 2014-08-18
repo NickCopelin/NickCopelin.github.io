@@ -22,7 +22,7 @@ social:
 # assets
 collections:
  assets:
- 	output_ext: .pdf
+ 	output_ext: pdf
  	permalink: _assets/NickCopelin_Resume.pdf
 
 # Build settings
