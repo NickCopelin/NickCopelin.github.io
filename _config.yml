@@ -5,9 +5,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: f7f7f7 #80B3FF
-  secondary: f0f0f0 #FD6E8A
-  secondary-dark: 08b5da #A2122F
+  primary: f0f0f0 #80B3FF
+  secondary: 08b5da #FD6E8A
+  secondary-dark: f7f7f7 #A2122F
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
