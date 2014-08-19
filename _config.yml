@@ -24,5 +24,4 @@ social:
 markdown: kramdown
 permalink: pretty
 encoding: UTF-8
-gems:
-  - jekyll-sitemap
+gems: jekyll-sitemap
