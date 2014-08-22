@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 date: 2014-08-18
-img: PTV_WTC_Site_Home.png
+img: MEM_SafetyCampaign_PrintAd_CarefulPal.png
 alt: 
 project-date: July 2014
 client: Protective Life
