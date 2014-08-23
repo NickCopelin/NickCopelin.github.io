@@ -251,7 +251,7 @@ section.success {
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
-        max-height: 267px;
+        max-height: 236px;
         overflow: hidden;
     }
 }
