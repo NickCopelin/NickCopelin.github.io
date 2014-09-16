@@ -1,7 +1,7 @@
 layout: default
 title: Nick Copelin
 email: admin@nickcopelin.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "A professional nameplate site for Nick Copelin"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -15,6 +15,8 @@ social:
     url: http://twitter.com/nickcopelin
   - title: linkedin
     url: http://linkedin.com/in/nickcopelin
+  - title: Medium
+  	url: http://medium.com/@nickcopelin
 
 
 # Postal address (add as many lines as necessary)
